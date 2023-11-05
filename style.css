@@ -10,8 +10,15 @@ p{
     width: 1340px;
 }
 
-.tableLogin{
+/*Para la clase .TableLogin*/
+body{
     background-image: url(assets/images/descarga.jpg);
+    background-size: 600px;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: 62.5%;
+}
+.tableLogin{
     align-items: center;
     border: 2px solid black;
     width: 600px;
